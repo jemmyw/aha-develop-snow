@@ -6,8 +6,7 @@ Add snow to Aha! Develop. Works best in dark mode.
 
 **Note: In order to install an extension into your Aha! Develop account, you must be an account administrator.**
 
-TODO: Fill in a link to your built extension package
-Install the Snow extension by clicking [here](https://secure.aha.io/settings/account/extensions/install?url=).
+Install the Snow extension by clicking [here](https://secure.aha.io/settings/account/extensions/install?url=https://github.com/jemmyw/aha-develop-snow/releases/download/v1.0.0/jemmyw.snow-v1.0.0.gz).
 
 ## Working on the extension
 
