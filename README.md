@@ -2,6 +2,8 @@
 
 Add snow to Aha! Develop. Works best in dark mode.
 
+<img width="1660" alt="CleanShot 2022-12-21 at 12 04 11@2x" src="https://user-images.githubusercontent.com/8016/208783145-33b01c18-d464-4015-a0f1-499fa7ad6f7d.png">
+
 ## Installing the extension
 
 **Note: In order to install an extension into your Aha! Develop account, you must be an account administrator.**
