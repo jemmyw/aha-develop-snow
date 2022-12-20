@@ -74,3 +74,4 @@ function showSnow() {
 
 aha.on({ event: "aha.extensions.ready" }, showSnow);
 aha.on({ event: "aha.extensions.reloaded" }, showSnow);
+document.addEventListener("page:change", showSnow);
