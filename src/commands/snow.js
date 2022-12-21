@@ -10,7 +10,7 @@ function showSnow() {
         return Math.floor(Math.random() * (b - a + 1)) + a;
       }
       var embCSS =
-        ".embedim-snow{position: absolute;width: 10px;height: 10px;background: white;border-radius: 50%;margin-top:-10px}";
+        ".embedim-snow{position: absolute;width: 10px;height: 10px;background: rgba(192,192,192,.5);border-radius: 50%;margin-top:-10px}body[data-theme='dark'] .embedim-snow{background: white;}";
       var embHTML = "";
       for (let i = 1; i < 200; i++) {
         embHTML += '<i class="embedim-snow"></i>';
